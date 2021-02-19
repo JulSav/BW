@@ -207,7 +207,7 @@ body {
   padding: 1.2rem 4rem !important;
   display: inline-block;
   text-decoration: none;
-  border-bottom: 1px solid #3A0000;
+  border: 2px solid #3A0000 !important;
   padding: 3px;
   transition: all .2s; }
 
@@ -571,7 +571,7 @@ body {
       .header-section section .header__text-box .heading-primary {
         padding-top: 2rem; }
       .header-section section .header__text-box .btn {
-        border-bottom: 1px solid white; }
+        border: 2px solid white; }
       @media only screen and (max-width: 356px) {
         .header-section section .header__text-box .btn {
           display: block;
